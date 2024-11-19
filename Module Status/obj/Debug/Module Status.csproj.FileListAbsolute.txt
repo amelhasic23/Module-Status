@@ -1,0 +1,7 @@
+C:\Users\ABC\Desktop\Module Status\Module Status\bin\Debug\Module Status.exe.config
+C:\Users\ABC\Desktop\Module Status\Module Status\bin\Debug\Module Status.exe
+C:\Users\ABC\Desktop\Module Status\Module Status\bin\Debug\Module Status.pdb
+C:\Users\ABC\Desktop\Module Status\Module Status\obj\Debug\Module Status.csproj.AssemblyReference.cache
+C:\Users\ABC\Desktop\Module Status\Module Status\obj\Debug\Module Status.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Desktop\Module Status\Module Status\obj\Debug\Module Status.exe
+C:\Users\ABC\Desktop\Module Status\Module Status\obj\Debug\Module Status.pdb
